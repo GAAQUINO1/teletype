@@ -47,6 +47,7 @@ To run teletype tests locally, you'll first need to have:
 
 1. Clone and bootstrap
 
+
     ```
     git clone https://github.com/atom/teletype.git
     cd teletype
